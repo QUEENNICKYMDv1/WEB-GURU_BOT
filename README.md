@@ -1,2 +1,2 @@
-# WEB-GURU_BOT
-FRONT END OF https://web-guru-bot.vercel.app
+# QUEEN NICKY MD
+FRONT END OF 
